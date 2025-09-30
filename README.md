@@ -31,11 +31,26 @@ Segue o diagrama da arquitetura geral do sistema:
 	- **Back-end:** Render;
 	- **Database:** Postgres no Render;
 
+## Cronograma Temporário da Etapa 2
+
+> O cronograma é temporário pois a data de entrega ainda não foi definida
+
+| Datas | Tarefas |
+|-------|---------|
+| **06/10/2025** | Alinhamento dos protótipos e apontamento de melhorias |
+| **20/10/2025** | Iniciar o desenvolvimento da API e do front-end |
+| **03/11/2025** | Realizar integração cliente-servidor |
+| **17/11/2025** | Realizar testes unitários |
+| **01/12/2025** | Fazer deploy das aplicações e do banco de dados |
+| **15/12/2025** | Fazer testes automatizados |
+
 ## Integrantes e papéis
 
-Abrahão Levy Barbosa de Lavor: Product Owner;
-Carlos Filipe Madeira de Souza: Desenvolvedor back-end;
-Dayon Oliveira de Souza: Desenvolvedor full stack;
-Fernando Luiz Silva de Lima: QA;
-Sabrina dos Santos Alves: Arquiteto de Software;
-Thiago de Vasconcelos Sousa: Engenheira de DevOps.
+| Nome | Matrícula | Papel |
+|------|-----------|-------|
+| **Abrahão Levy Barbosa de Lavor** | 2323796 | Product Owner (PO) |
+| **Carlos Filipe Madeira de Souza** | 2317449 | Desenvolvedor back-end |
+| **Dayon Oliveira de Souza** | 2425030 | Desenvolvedor fullstack |
+| **Fernando Luiz Silva de Lima** | 2326203 | QA Engineer |
+| **Thiago de Vasconcelos Sousa** | 2415581 | Arquiteto de Software |
+| **Sabrina dos Santos Alves** | 2326657 | DevOps Engineer |
