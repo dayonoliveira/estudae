@@ -1,6 +1,6 @@
 # Estudae
 
-Projeto que busca ajudar estudantes carentes a conseguir acesso à reforços escolares e a doações de materiais escolares.
+Projeto que busca ajudar estudantes de baixa renda a conseguir acesso à reforços escolares e a doações de materiais escolares.
 
 ## Problema abordado e justificativa
 
